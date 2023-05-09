@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/KoshelevAleksandr" target="_blank">Aleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I’m a backend developer in love with the Web, browsers, cars, and movies. 🇷🇺</h3>
+<h3 align="center">I’m a backend developer in love with the Web, browsers, cars, and movies.</h3>
 
 _Contact me: tg @an_koshelev
 
