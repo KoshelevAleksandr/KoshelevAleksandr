@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I’m a backend developer in love with the Web, browsers, cars, and movies.</h3>
 
-_Contact me: tg @an_koshelev
+💬_Contact me: Telegram @an_koshelev
 
 <h3><span style="color: #2336f7"> My stack will increase, but now it's as follow:</span></h3>
 
