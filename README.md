@@ -16,6 +16,7 @@ _Contact me: tg @an_koshelev
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 <!--
 **KoshelevAleksandr/KoshelevAleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
